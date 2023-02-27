@@ -268,26 +268,181 @@ de 8 kHz? El ancho de banda debe ser de 800 Hz. La resistencia de devanado del c
 
 ## Autoevaluación:
 
-2.Cuando la frecuencia del voltaje aplicado a un circuito RL en serie se incrementa, la impedancia
+2.Se aplica un voltaje sinusoidal con valor pico a pico de 15 V a un filtro RC pasabajas. Si la reactancia
+a la frecuencia de entrada es de cero, el voltaje de salida es de
  
-- a) disminuye
-- **b) aumenta** ←
+- a) 15 V de pico a pico
+- **b) cero** ←
+- c) 10.6 V de pico a pico
+- d) 7.5 V de pico a pico
+
+4.En la frecuencia crítica, la salida de un filtro se reduce por debajo de su valor máximo en
+
+- a) 0 dB
+- **b) -3 dB** ←
+- c) -20 dB
+- d) -6 dB
+
+6.En un filtro pasivo, la relación Vsal/Vent se llama
+
+- a) Pendiente decreciente
+- b) ganancia
+- **c) atenuación** ←
+- d) reducción crítica
+
+8.En la frecuencia crítica, el desplazamiento de fase a través de un filtro pasaaltas es de
+
+- a) 90°
+- b) 0°
+- **c) 45°** ←
+- d) depende de la reactancia
+
+10.En condición de resonancia en serie
+
+- **a) Xc=Xl** ←
+- b) Xc>Xl
+- c) XcZXl
+
+12.En un filtro pasabanda, el voltaje de salida a la frecuencia resonante es
+
+- a) mínimo 
+- **b) máximo** ←
+- c) un 70.7% del voltaje máximo
+- d) un 70.7% del voltaje mínimo
+
+14.Con un valor suficientemente alto de Q, la frecuencia resonante de un filtro resonante en paralelo es
+idealmente
+
+- a) mucho más grande que la frecuencia resonante de un filtro resonante en serie 
+- b) mucho menor que la frecuencia resonante de un filtro resonante en serie
+- **c) igual que la frecuencia resonante de un filtro resonante en serie** ←
+
+## EXAMEN RÁPIDO DE DINÁMICA DE CIRCUITOS
+
+Consulte la figura 18-38(a).
+
+![image](https://user-images.githubusercontent.com/104925648/221475563-8aec1a59-d4f3-4b7c-8e28-da570d513f74.png)
+
+2.Si C se incrementa, el voltaje de salida
+
+- a) aumenta
+- **b) disminuye** ←
 - c) no cambia
- 
-4.Si la frecuencia se duplica y la resistencia es reducida a la mitad, la impedancia de un circuito RL en serie
- 
-- a) se duplica
-- b) se reduce a la mitad
-- c) permanece constante
-- **d) no puede determinarse sin valores** ←
- 
- 
-## Sección 16-3  Análisis de circuitos RL en serie
 
-## Sección 16-4 Impedancia y admitancia de circuitos RL en paralelo
+Consulte la figura 18-38(d).
 
-## Sección 16-6 Análisis de circuitos RL en serie-paralelo
- 
+![image](https://user-images.githubusercontent.com/104925648/221475677-4394720a-1896-4d67-b3fb-bb8b65bb9c1d.png)
+
+4.Si L se incrementa, el voltaje de salida
+
+- a) aumenta
+- **b) disminuye** ←
+- c) no cambia
+
+Consulte la figura 18-40.
+
+![image](https://user-images.githubusercontent.com/104925648/221475740-3b4f1e7b-84be-4b14-b565-206daee5884d.png)
+
+6.Si el interruptor pasa de la posición 2 a la posición 3, la frecuencia crítica
+
+- **a) se incrementa** ←
+- b) disminuye
+- c) no cambia
+
+Consulte la figura 18-41(a).
+
+8.Si R se incrementa a 180 Æ, el voltaje de salida
+
+- **a) aumenta** ←
+- b) disminuye
+- c) no cambia
+
+Consulte la figura 18-42.
+
+![image](https://user-images.githubusercontent.com/104925648/221475932-f799416f-f5e5-4dc8-a5d5-be3b26977c34.png)
+
+10.Si el interruptor está en la posición 3 y R5 se abre, Vsal
+
+- a) aumenta
+- b) disminuye
+- **c) no cambia** ←
+
+Consulte la figura 18-48
+
+![image](https://user-images.githubusercontent.com/104925648/221476057-7903aedd-27e2-4052-8d38-48d5a3f8d1a2.png)
+
+12.Si C se pone en cortocircuito, el voltaje de salida
+
+- **a) aumenta** ←
+- b) disminuye
+- c) no cambia
+
+## Sección 18-1 Filtros pasabajas
+
+2.Un filtro pasabajas tiene frecuencia crítica de 3 kHz. Determine a cuáles de las siguientes frecuencias
+se les permite pasar y cuáles son rechazadas:
+
+![image](https://user-images.githubusercontent.com/104925648/221476479-85a44120-1418-46d1-9ea3-6a75be40dd61.png)
+
+4.¿Cuál es fc para cada filtro mostrado en la figura 18-38? Determine el voltaje de salida a fc en cada caso cuando Vent = 5 V
+
+![image](https://user-images.githubusercontent.com/104925648/221477204-040408ef-157f-49ce-bc93-bbe41c78e730.png)
+
+6.Determine la frecuencia crítica en cada una de las posiciones del interruptor en la red de filtros conmutados de la figura 18-40
+
+![image](https://user-images.githubusercontent.com/104925648/221477324-8b392368-858b-47c9-8eb2-5cdd68c6430a.png)
+
+![image](https://user-images.githubusercontent.com/104925648/221477373-14409e95-c561-49e3-9710-e73972bbebae.png)
+
+8.En cada uno de los casos siguientes, exprese la relación de voltaje en dB:
+
+![image](https://user-images.githubusercontent.com/104925648/221477457-fec02cb7-a8d1-4f68-b68d-6ec3f0bce624.png)
+
+10.Para cada filtro RC pasabajas, determine el voltaje de salida en dB con respecto a una entrada de 0 dB
+en las siguientes frecuencias (fc = 1 kHz):
+
+![image](https://user-images.githubusercontent.com/104925648/221477851-53fab17a-ab9d-4d7f-9dea-ed260993ced8.png)
+
+## Sección 18-2 Filtros pasaaltas
+
+12.La frecuencia crítica de un filtro pasaaltas es de 50 Hz. Determine a cuáles de las siguientes frecuencias se les permite pasar y cuáles son rechaza
+
+![image](https://user-images.githubusercontent.com/104925648/221477979-66a562d2-439f-4924-84ea-845b6e1ea7c7.png)
+
+14.¿Cuál es fc para cada filtro de la figura 18-41? Determine el voltaje de salida a fc en cada caso (Vent = 10 V).
+
+![image](https://user-images.githubusercontent.com/104925648/221478321-e67807b3-967e-468d-8805-2cd87ebc4046.png)
+
+16.Determine fc para cada una de las posiciones del interruptor en la figura 18-42.
+
+![image](https://user-images.githubusercontent.com/104925648/221478612-27456e48-b860-4368-9085-03ff18af56a1.png)
+
+## Sección 18-3 Filtros pasabanda
+
+18.Suponiendo que la resistencia de devanado de las bobinas mostradas en la figura 18-43 es de 10 ohm, determine el ancho de banda para cada filtro.
+
+![image](https://user-images.githubusercontent.com/104925648/221479435-30e2ee82-9560-4835-aa89-fd0ef7361b0c.png)
+
+20.Para cada filtro mostrado en la figura 18-44, determine la frecuencia central de la pasabanda. Ignore RW
+
+![image](https://user-images.githubusercontent.com/104925648/221479865-d44117c6-2968-4d8c-a016-79ada4ac9926.png)
+
+22.Determine la separación de las frecuencias centrales en todas las posiciones del interruptor de la figura 18-45. 
+¿Se traslapan algunas de las respuestas? Suponga que RW = 0 ohm para cada bobina
+
+![image](https://user-images.githubusercontent.com/104925648/221480222-4abba268-da07-4f1c-801b-c70c7e3c6fef.png)
+
+## Sección 18-4 Filtros Rechazabanda
+
+24.Determine la frecuencia central para cada filtro mostrado en la figura 18-46.
+
+![image](https://user-images.githubusercontent.com/104925648/221480803-c398ab50-7cd2-45b7-af3d-deeac9585add.png)
+
+26.Si la resistencia de las bobinas de la figura 18-47 es de 8 ohm, ¿cuál es el voltaje de salida en condición
+de resonancia cuando Vent 5 50 V?
+
+![image](https://user-images.githubusercontent.com/104925648/221481756-a6c41a32-6408-4d3c-82b3-218722d5aea8.png)
+
 ># 4. VÍDEO
 
 ># 5. CONCLUSIONES
