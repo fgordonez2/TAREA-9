@@ -224,6 +224,8 @@ corrientes inductiva y capacitiva en la frecuencia resonante?
 28.Determine el voltaje entre las terminales de cada elemento mostrado en la figura 17-66, y expréselo en
 forma polar. 
 
+![image](https://user-images.githubusercontent.com/104925648/221471891-6ae7944f-8b81-4633-89e7-53a5dffd0c75.png)
+
 ![image](https://user-images.githubusercontent.com/104925648/221471404-f64ac1c3-1d05-4c1c-b5eb-ee6694f185d2.png)
 
 30.¿Cuál es la corriente a través de R2 en la figura 17-67?
@@ -232,30 +234,37 @@ forma polar.
 
 32.Determine la resistencia y la reactancia totales en la figura 17-68.
 
+![image](https://user-images.githubusercontent.com/104925648/221471913-c25f287e-6dc1-4b02-848a-9f0e2021094a.png)
+
 ![image](https://user-images.githubusercontent.com/104925648/221471823-8f4c30d0-ea27-42c7-a013-41ea780c40aa.png)
 
+34.Determine si existe un valor de C que hará Vab 5 0 V en la figura 17-69. Si no lo hay, explique la razón
 
+![image](https://user-images.githubusercontent.com/104925648/221472467-f517f981-69cb-4167-9273-455d065b02b6.png)
 
+36.¿Cuántas frecuencias resonantes hay en el circuito de la figura 17-70 ¿Por qué?
 
+![image](https://user-images.githubusercontent.com/104925648/221472705-39aef8c4-1c4f-4619-83cf-6e33782b7814.png)
 
+38.Diseñe un red resonante en paralelo usando una sola bobina y capacitores seleccionables mediante un
+interruptor para producir las siguientes frecuencias resonantes: 8 MHz, 9 MHz, 10 MHz, y 11 MHz.
+Suponga una bobina de 10 uH con resistencia de devanado de 5 ohm.
 
+![image](https://user-images.githubusercontent.com/104925648/221473161-7c6a0ed5-4c59-4827-b424-c6b227a64590.png)
 
+## Sección 17-8 Ancho de banda de circuitos resonantes
 
+40.Si la frecuencia crítica baja es de 2400 Hz y la frecuencia crítica alta es de 2800 Hz, ¿cuál es el ancho
+de banda? ¿Cuál es la frecuencia resonante?
 
+![image](https://user-images.githubusercontent.com/104925648/221473602-ca886a90-9825-4c6b-8d74-7c49be0a2f24.png)
 
+42.En un circuito tanque, ¿qué valores de L y C deberán utilizarse para obtener una frecuencia resonante
+de 8 kHz? El ancho de banda debe ser de 800 Hz. La resistencia de devanado del circuito es de 10 ohm
 
+![image](https://user-images.githubusercontent.com/104925648/221473977-6f8c7700-c273-4c5e-b11d-5cd1e0ba015c.png)
 
-
-
-
-
-
- 
-
-
-
- 
-
+# Resolución de ejercicios pares *CAPITULO 18*:
 
 ## Autoevaluación:
 
