@@ -2,15 +2,16 @@
 ># 1. OBJETIVOS
 # General:
 
-- Comprender los conceptos de circuitos RC y RL, mediante la investigación de los capítulos 15 y 16 del libro "Principios de Circuitos Eléctricos" de Thomas Floyd, y
- bibliografía externa, para desarrollar correctamente los ejercicios planteados con ayuda de los conocimientos adquiridos en clase estudiados hasta el momento.
+- Analizar el comportamiento de circuitos RCL y de filtos pasivos, mediante la investigación de los capítulos 17 y 18 del libro "Principios de Circuitos Eléctricos" 
+de Thomas Floyd, y bibliografía externa, para desarrollar correctamente los ejercicios planteados con ayuda de los conocimientos adquiridos en clase estudiados 
+hasta el momento.
 
  # Específicos:
  
- - Usar números complejos para expresar cantidades fasoriales
- - Describir la relación entre corriente y voltaje en un circuito RC en serie
- - Determinar la impedancia de un circuito RL en serie
- - Localizar fallas en circuitos RC y RL
+ - Determinar la impedancia de un circuito RLC en serie
+ - Analizar un circuito en cuanto a resonancia en serie
+ - Calcular el ancho de banda de circuitos resonantes
+ - Conocer la operación de filtros pasabajas, pasaaltas RC y RL
  
 ># 2. MARCO TEÓRICO (RESUMEN)
 Luego de una amplia consulta bibliográfica; he realizado mapas conceptuales y mentales en donde describo el resumen de
