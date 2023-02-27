@@ -448,6 +448,18 @@ de resonancia cuando Vent 5 50 V?
 
 ># 5. CONCLUSIONES
 
+- Los circuitos RCL son aquellos circuitos que poseen una resistencia, un inductor y un condesador que se encuentran conectados 
+en serie o en paralelo, estos se diferencian entre si mediante la forma en que estan compuestos.
+- La impedancia Z de un circuito RLC en serie se define como la oposición al flujo de corriente, debido a la resistencia del circuito R, 
+la reactancia inductiva, XL y la reactancia capacitiva, XC.
+- La resonancia que está presente en una serie del circuito que tiene una resistencia de la resistencia (R), una conductancia (C) y la 
+inductancia (L) se conoce como resonancia en serie.
+- Q es la relación entre la potencia almacenada y la potencia disipada en la reactancia y resistencia del circuito, respectivamente:
+- 
+![image](https://user-images.githubusercontent.com/104925648/221638833-b698afe7-d227-49bf-a142-2cff6e723553.png)
+
+- La fórmula para encontrar el punto de corte de frecuencia de un circuito RL es, frecuencia = 2πRL
+
 
 ># 6. BIBLIOGRAFÍA
 
