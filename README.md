@@ -446,6 +446,8 @@ de resonancia cuando Vent 5 50 V?
 
 ># 4. VÍDEO
 
+https://youtu.be/kKw-L4jm1KY
+
 ># 5. CONCLUSIONES
 
 - Los circuitos RCL son aquellos circuitos que poseen una resistencia, un inductor y un condesador que se encuentran conectados 
