@@ -42,33 +42,130 @@ los temas propuestos:
 
 ![image](https://user-images.githubusercontent.com/104925648/221456425-079a27eb-0ae4-461a-9fbf-1873fcc8c3d9.png)
 
-
-
 ># 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
-# Resolución de ejercicios pares *CAPITULO 15*:
+# Resolución de ejercicios pares *CAPITULO 17*:
 
 ## Autoevaluación:
 
-2.En el plano complejo, el número 3 + j4 se localiza en el
+2.El ángulo de fase entre el voltaje de fuente y la corriente de un circuito RLC en serie en condición de
+resonancia es
 
-- **a) primer cuadrante** ←
-- b) segundo cuadrante
-- c) tercer cuadrante
-- d) cuarto cuadrante
+- a) -90°
+- b) +90°
+- **c) 0°** ←
+- d) dependiente de la reactancia
 
-![image](https://user-images.githubusercontent.com/104925648/220006849-7ff3d23d-31a8-4368-a14d-d93fbe9fb31b.png)
+4. En un circuito en serie RLC que opera por debajo de la frecuencia resonante, la corriente
 
-4.El número complejo 5 1 j5 equivale a 
+- a) está en fase con el voltaje aplicado
+- b) se retrasa con respecto al voltaje aplicado
+- **c) se adelanta al voltaje aplicado** ←
 
-- a) 5∠45°
-- b) 25∠0°
-- **c) 7.07∠45°** ←
-- d) 7.07∠135°
+6.En cierto circuito resonante en serie, VC = 150 V, VL = 150 V, y VR = 50 V. El valor del voltaje de
+fuente es de
+
+- a) 150 V
+- b) 300 V
+- **c) 50 V** ←
+- d) 350 V
+
+8.A frecuencias por debajo de la frecuencia resonante en un circuito RLC en paralelo, la corriente
+
+- a) adelanta al voltaje de fuente
+- **b) se retrasa con respecto al voltaje de fuente** ←
+- c) está en fase con el voltaje de fuente
+
+10.Para sintonizar un circuito resonante en paralelo a una frecuencia más baja, la capacitancia deberá 
+
+- **a) incrementarse** ←
+- b) disminuir
+- c) permanecer igual
+- d) ser reemplazada con inductancia
+
+12.Si la resistencia en paralelo con un circuito resonante en paralelo se reduce, el ancho de banda
+
+- a) desaparece
+- b) disminuye
+- c) se vuelve más marcado
+- **d) aumenta** ←
+
+## EXAMEN RÁPIDO DE DINÁMICA DE CIRCUITOS
+
+Consulte la figura 17-60.
+
+![image](https://user-images.githubusercontent.com/104925648/221460414-0fa87d48-a157-41de-bc39-de14e992522b.png)
+
+2.Si C1 se abre, el voltaje en C2
+
+- **a) aumenta** ←
+- b) disminuye
+- c) no cambia
+
+Consulte la figura 17-63.
+
+![image](https://user-images.githubusercontent.com/104925648/221460560-0e755753-26bb-4f5c-8c78-351a3fd5a3b6.png)
+
+4.Si L se abre, el voltaje en R
+
+- a) aumenta
+- b) disminuye
+- **c) no cambia** ←
+
+Consulte la figura 17-64.
+
+![image](https://user-images.githubusercontent.com/104925648/221460649-3ce3a04e-0d99-4506-b9cb-214391d6bc18.png)
+
+6.Si L se incrementa a 100 mH, la frecuencia resonante
+
+- a) aumenta
+- **b) disminuye** ←
+- c) no cambia
+
+8.Si L se abre, el voltaje en C
+
+- a) aumenta
+- b) disminuye
+- **c) no cambia** ←
+
+Consulte la figura 17-66.
+
+![image](https://user-images.githubusercontent.com/104925648/221460864-ab42e5c6-85ab-4675-85ef-42d2e27b7130.png)
+
+10.Si C se pone en cortocircuito, el voltaje en R1
+
+- **a) aumenta** ←
+- b) disminuye
+- c) no cambia
+
+Consulte la figura 17-69.
+
+![image](https://user-images.githubusercontent.com/104925648/221460960-e4bff894-3ec9-4ade-8dee-8d85f4d33b5b.png)
+
+12.Si la frecuencia de la fuente se incrementa, el voltaje de a a b
+
+- **a) aumenta** ←
+- b) disminuye
+- c) no cambia
+
+14Si la frecuencia de la fuente de voltaje disminuye, el voltaje en C
+
+- **a) aumenta** ←
+- b) disminuye
+- c) no cambia
+
+## Sección 17-1 Impedancia de circuitos RLC en serie
+
+2.Determine la impedancia en la figura 17-59 y exprésela en forma polar
 
 
-## Sección 15-1  El sistema de los números complejos
 
-## Sección 15-2 Respuesta sinusoidal de circuitos RC en serie
+
+
+
+
+
+
+
  
 
 
