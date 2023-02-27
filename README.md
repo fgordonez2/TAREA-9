@@ -16,6 +16,33 @@
 Luego de una amplia consulta bibliográfica; he realizado mapas conceptuales y mentales en donde describo el resumen de
 los temas propuestos:
 
+![image](https://user-images.githubusercontent.com/104925648/221456124-7ec407ec-fefb-458e-ae09-9bbaeab38cba.png)
+
+![image](https://user-images.githubusercontent.com/104925648/221456149-7ecee146-1652-4f78-8835-0905c1741444.png)
+
+![image](https://user-images.githubusercontent.com/104925648/221456165-517f89d6-35ba-4b87-807a-df37a41a6415.png)
+
+![image](https://user-images.githubusercontent.com/104925648/221456185-ebd4d7b8-0e98-418f-ab08-086cac27cfd5.png)
+
+![image](https://user-images.githubusercontent.com/104925648/221456217-09316b29-aac0-489e-8478-74da25875496.png)
+
+![image](https://user-images.githubusercontent.com/104925648/221456230-bc3f9a0c-8901-4237-8203-114b02510e21.png)
+
+![image](https://user-images.githubusercontent.com/104925648/221456258-430bec2b-83de-4f98-b018-12d3d4961020.png)
+
+![image](https://user-images.githubusercontent.com/104925648/221456287-b3c6b2bd-86f2-4e22-aa84-9f2992234726.png)
+
+![image](https://user-images.githubusercontent.com/104925648/221456349-63bf1c1f-782b-4316-978b-29b6f9890d48.png)
+
+![image](https://user-images.githubusercontent.com/104925648/221456368-07446b3c-6954-4f4e-820e-293030cce1c4.png)
+
+![image](https://user-images.githubusercontent.com/104925648/221456393-ab222be8-44c3-4994-95b4-8bfc342b7044.png)
+
+![image](https://user-images.githubusercontent.com/104925648/221456402-291194ba-c424-426a-aded-3f6482769baf.png)
+
+![image](https://user-images.githubusercontent.com/104925648/221456425-079a27eb-0ae4-461a-9fbf-1873fcc8c3d9.png)
+
+
 
 ># 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 # Resolución de ejercicios pares *CAPITULO 15*:
