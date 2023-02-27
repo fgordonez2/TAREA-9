@@ -157,6 +157,90 @@ Consulte la figura 17-69.
 
 2.Determine la impedancia en la figura 17-59 y exprésela en forma polar
 
+![image](https://user-images.githubusercontent.com/104925648/221462113-3497422a-b321-46a4-8e84-4defb682b20a.png)
+
+4.Para el circuito de la figura 17-59, determine la reactancia neta que hará que la magnitud de la impedancia sea igual a 100 ohm
+
+![image](https://user-images.githubusercontent.com/104925648/221463185-0d434158-c064-46cf-a073-195f9c930ebe.png)
+
+## Sección 17-2 Análisis de circuitos RLC en serie
+
+6.Trace el diagrama fasorial de voltaje para el circuito de la figura 17-59.
+
+![image](https://user-images.githubusercontent.com/104925648/221464795-f2dc8081-b351-45da-aec6-fd01b99b5a60.png)
+
+## Sección 17-3 Resonancia en serie
+
+8.Para el circuito de la figura 17-59, ¿es la frecuencia resonante más alta o más baja que el valor indicado por los valores de reactancia?
+
+![image](https://user-images.githubusercontent.com/104925648/221465142-a1d8015c-8724-4f5c-92ab-9b3a469a5c2b.png)
+
+10.En la figura 17-61, determine XL, XC, Z e I a la frecuencia resonante.
+
+![image](https://user-images.githubusercontent.com/104925648/221465860-db3c38d7-5e94-4843-bc61-ee6fd7fd815d.png)
+
+12.Para el circuito RLC de la figura 17-62, determine la frecuencia resonante. 
+
+![image](https://user-images.githubusercontent.com/104925648/221466128-adfe64d6-013f-42f3-bd2f-efa20ceb9465.png)
+
+14.En la figura 17-62, determine el ángulo de fase entre el voltaje aplicado y la corriente a las frecuencias
+críticas. ¿Cuál es el ángulo de fase en condición de resonancia?
+
+![image](https://user-images.githubusercontent.com/104925648/221466929-3cbc4a79-b891-4634-915a-ab491f415cc0.png)
+
+## Sección 17-4 Impedancia de circuitos RLC en paralelo
+
+16.Exprese en forma polar la impedancia del circuito de la figura 17-63
+
+![image](https://user-images.githubusercontent.com/104925648/221467200-b52f2ef5-34de-476a-a432-8172c1b2621c.png)
+
+18.¿A qué frecuencia el circuito de la figura 17-63 cambia su característica reactiva (de inductiva a capacitiva o viceversa)?
+
+![image](https://user-images.githubusercontent.com/104925648/221467569-e393d749-764e-4369-bdce-24401559bd4f.png)
+
+## Sección 17-5 Análisis de circuitos RLC en paralelo
+
+20.Determine la impedancia total del circuito de la figura 17-63 a 50 kHz
+
+![image](https://user-images.githubusercontent.com/104925648/221467784-f6b5ec27-5be9-460c-aed7-30f9f2b6f2fe.png)
+
+## Sección 17-6 Resonancia en paralelo
+
+22.¿Cuál es la impedancia de un circuito resonante ideal dispuesto en paralelo (sin resistencia en las ramas)?
+
+- Respuesta: **Xr es muy muy grande**
+
+24.¿Cuánta corriente se extrae de la fuente de la figura 17-64 en condición de resonancia? ¿Cuáles son las
+corrientes inductiva y capacitiva en la frecuencia resonante?
+
+![image](https://user-images.githubusercontent.com/104925648/221470459-dc59ec18-1047-41cf-bdac-8df7cf781b40.png)
+
+## Sección 17-7  ANÁLISIS DE CIRCUITOS RLC EN SERIE-PARALELO
+
+26.Encuentre la impedancia total para cada circuito de la figura 17-65.
+
+![image](https://user-images.githubusercontent.com/104925648/221471112-7c29db2a-bb18-46d7-b638-4be976fbd486.png)
+
+28.Determine el voltaje entre las terminales de cada elemento mostrado en la figura 17-66, y expréselo en
+forma polar. 
+
+![image](https://user-images.githubusercontent.com/104925648/221471404-f64ac1c3-1d05-4c1c-b5eb-ee6694f185d2.png)
+
+30.¿Cuál es la corriente a través de R2 en la figura 17-67?
+
+![image](https://user-images.githubusercontent.com/104925648/221471596-1e884d09-c1bc-4ff8-923c-ef91efc51b59.png)
+
+32.Determine la resistencia y la reactancia totales en la figura 17-68.
+
+![image](https://user-images.githubusercontent.com/104925648/221471823-8f4c30d0-ea27-42c7-a013-41ea780c40aa.png)
+
+
+
+
+
+
+
+
 
 
 
